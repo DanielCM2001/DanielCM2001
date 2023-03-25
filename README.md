@@ -2,8 +2,9 @@
 
 ## 🎓 I'm a Junior Developer
 
-- 🌱 I’m currently learning blockchain technology
-- 👯 I’m looking to collaborate with anyone on any project
+- 💻 Working in Web 3 as a Web Developer
+- 🌱 Enthusiastic learner of Blockchain Technology
+- 👯 Looking to collaborate and contribute to the space as much as I can
 - 💬 Ask me about anything
 
 ## ✉️ Find me on:
