@@ -1,6 +1,7 @@
 <h1 align="center" dir="auto">Hi there, I'm Daniel 🤟 </h1>
 
 ## <p align="center"> 👨‍💻 A front-end Web Developer passionate about creating interactive applications and experiences on the web. </p>
+## <a href="https://bedanielmartins.com/" align="center"> https://bedanielmartins.com/ </a>
 
 - 💻 Working as a Web Developer
 - 🌱 Enthusiastic learner of Web Development & Blockchain Technology
